@@ -38,7 +38,7 @@ evans api/proto/adder.proto -p 8080
 
 - That's all!
 
-### Live demo
+## Live demo
 
 [![asciicast](https://asciinema.org/a/298722.svg)](https://asciinema.org/a/298722)
 
