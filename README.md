@@ -14,8 +14,8 @@ Published on [Dev.to]() @ 07 Feb 2020.
 - Clone this repository and go to folder:
 
 ```console
-git clone https://github.com/koddr/example-go-grpc.git
-cd example-go-grpc
+git clone https://github.com/koddr/example-go-grpc-server.git
+cd example-go-grpc-server
 ```
 
 - Try to build binary:
