@@ -1,4 +1,4 @@
-module github.com/koddr/example-go-grpc
+module github.com/koddr/example-go-grpc-server
 
 go 1.13
 

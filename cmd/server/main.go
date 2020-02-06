@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/koddr/example-go-grpc/pkg/adder"
-	"github.com/koddr/example-go-grpc/pkg/api"
+	"github.com/koddr/example-go-grpc-server/pkg/adder"
+	"github.com/koddr/example-go-grpc-server/pkg/api"
 	"google.golang.org/grpc"
 )
 

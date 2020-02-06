@@ -3,7 +3,7 @@ package adder
 import (
 	"context"
 
-	"github.com/koddr/example-go-grpc/pkg/api"
+	"github.com/koddr/example-go-grpc-server/pkg/api"
 )
 
 // GRPCServer struct
